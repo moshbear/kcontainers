@@ -1,0 +1,9 @@
+*.backup
+*.class
+*.log
+.gradle
+build/
+.idea/
+*.iml
+out/
+.env
